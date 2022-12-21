@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.button {
+  background-color: #585076;
+  color: #ffffff;
+  font-size: 18px;
+  padding: 10px;
+  margin: 10px;
+  font-weight: bold;
+  padding-right: 30px;
+  padding-left: 30px;
+  border: 1px solid #c4c4c4;
+}
